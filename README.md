@@ -2,7 +2,7 @@
 [![Java](https://img.shields.io/badge/Code-Java-blueviolet)](https://docs.oracle.com/javase/8/docs/api/)
 [![JDBC](https://img.shields.io/badge/Dependency-JDBC-red)](https://docs.oracle.com/javase/8/docs/api/)
 
-![imagen](https://www.adesso-mobile.de/wp-content/uploads/2021/02/kotlin-einfu%CC%88hrung.jpg)
+![imagen](https://github.com/osirisdavid/MenejoJDBC/blob/main/JDBC.png)
 
 
 
